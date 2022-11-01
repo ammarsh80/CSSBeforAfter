@@ -1,0 +1,13 @@
+h1:after {
+    content: "♥";
+}
+
+h1:before {
+    content: "";
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    background-image: url(arrowanimation.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
